@@ -1,0 +1,7 @@
+
+apiTitle: doc
+splitSpec: true
+codeSamples: true
+swaggerUI: false
+travis: false
+oasVersion: 3.0.0
